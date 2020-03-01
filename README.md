@@ -4,7 +4,7 @@
 2. What five objects are created in the main?
 
 In main, the five objects are 
-1) Three dogs --> with Fido 3 legs, Fido 4 legs, and Alphie 4 legs
+1) Three dogs --> with Fido 3 legs, Fido 4 legs, and Alfie 4 legs
 2) An Animal Comparator
 3) An ArrayList of Dogs
 
